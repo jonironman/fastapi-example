@@ -1,0 +1,7 @@
+__pycache__/
+data/
+db/__pycache__/
+core/__pycache__/
+endpoints/__pycache__/
+models/__pycache__/
+repositories/__pycache__/
